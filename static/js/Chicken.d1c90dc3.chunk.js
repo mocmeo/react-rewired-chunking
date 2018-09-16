@@ -1,0 +1,2 @@
+webpackJsonp(["Chicken"],{"./src/components/Chicken.js":function(e,n,c){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r=c("./node_modules/react/index.js"),t=c.n(r);n.default=function(){return t.a.createElement("h1",null,"Winner winner chicken dinner!!!")}}});
+//# sourceMappingURL=Chicken.d1c90dc3.chunk.js.map
